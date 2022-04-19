@@ -9,17 +9,10 @@
 <h1>About Me 📌</h1>
 
 - 👋 Hi, I’m Huthayfa Mutan
-- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
-- 💻 I’m Currently Learning Full-Stack Web Development
-- 🎓 Computer Engineer Student @ Birzeit University
-- 📫 How to Reach Me huthifa0@gmail.com
-
-
-<!---
-Huthayfa0/Huthayfa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- 🎓 I am studying Computer Engineering, major in Computer engineering and minor in Business management.
+- 👨‍💻 I am interested in Artificial Intelligence, software development and hardware design.
+- 💻 I am a programmer, programming teacher and Entrepreneur.
+- 📫 Reach Me through huthifa0@gmail.com
 <br /> 
 
 <h2 align="center"> Tech Stack 👨‍💻</h2>
